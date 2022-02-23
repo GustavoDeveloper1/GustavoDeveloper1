@@ -3,7 +3,6 @@
 
 - 🔭 Atuamente trabalhando com Front-End e Desgin Gráfico
 - 🌱 Estou aprendendo ReactJs 
-- 😄 Pronouns:
 
 <div align="center">
   <a href="https://github.com/GustavoDeveloper1">
